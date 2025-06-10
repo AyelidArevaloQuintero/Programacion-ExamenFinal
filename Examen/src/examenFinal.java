@@ -16,24 +16,33 @@ public class examenFinal {
     }
 
     public static int contarEstudiantesAprobados(int[][] notas){
-        for(int s = 0; )
+        for(int s = 0; s<6; s++){
+    
+            if(){
+
+            }
+            System.out.println("Las notas mayores o iguales a 60" );
+        }
     }
 
-    public static double promedioNotasAltas(int[][] matriz){
+    public static double promedioNotasAltas(int[][] notas){
 
     }
 
-    public static void imprimirNotasBajas(int[][] matriz){
+    public static void imprimirNotasBajas(int[][] notas){
 
     }
 
-    public static int[] posicionNotaMaxima(int[][] matriz){
+    public static int[] posicionNotaMaxima(int[][] notas){
 
     }
 }
 
 // Tengo que ingresar cada columna y fila, si i es igual a columnas, entonces j es igual a filas °
-// En el siguiente debo ver cuantos estudiantes tienen una nota mayor o igual a 60 ( para (int s = 0; ), necesito un contador en este caso es s
+// En el siguiente debo ver cuantos estudiantes tienen una nota mayor o igual a 60 ( para (int s = 0; ), necesito un contador en este caso es s, tambien hago un si para que
+// si las notas son mayores o iguales que 60.
+
 // Calculamos el promedio de las notas mayores o iguales a 80
 // imprimir las posiciones de las notas menores de 50 
 // Devuelve un arreglo con la posición [fila, columna] de la nota más alta
+// https://star-saver-473.notion.site/Prueba-Final-L-gica-An-lisis-de-Resultados-Acad-micos-20da0cdf497e80ac8835d0a962fc55f0
